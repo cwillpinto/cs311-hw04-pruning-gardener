@@ -2,13 +2,9 @@
 
 CS 311: Data Structures & Algorithms, Fall 2026, University of Southern Indiana.
 
-[Full assignment and submission requirements](HW4_The_Pruning_Gardener.md).
-
 ## Get started
 
 Open https://github.com/cwillpinto/cs311-hw04-pruning-gardener and select **Use this template > Create a new repository** under your own GitHub account. Clone your new repository and work there.
-
-Requires Python 3.11 or newer; no third-party packages are needed.
 
 Complete `delete`, `count_nodes`, and `kth_smallest` in `prune_tree.py`. `TreeNode` and `insert` are provided; do not modify them.
 
